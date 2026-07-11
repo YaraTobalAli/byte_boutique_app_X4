@@ -6,12 +6,12 @@ class AppColors {
   static const Color secondary = Colors.green;  
 
   //  ألوان الخلفيات 
-  static const Color background = Color(0xFFFFFFFF); 
+static const Color background = Color(0xFFF9F9F9);
  static const Color onBording = Color(0xFF2B2B2B); //&side menu
 
   //نصوص
   static const Color textPrimary = Color(0xFF1A2530); 
-  static const Color textSecondary = Color(0xFF707B81); 
+  static const Color textSecondary = Color.fromARGB(255, 128, 135, 138); 
 
 
   // static const Color  = Color(0xFF);    
